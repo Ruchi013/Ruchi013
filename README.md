@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ruchi013
+- 👀 I’m interested in .web development,strongly focused to complete the task in fast-paced environment,I enjoy being challenged and engagine with projects that require me to work outside.
+- I'm currently Full Stack Developer Trainee..
+- I have the knowledge of Java ,Html5,Css3,Javascript,React.
